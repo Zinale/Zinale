@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alessandro 👋
 
-<!--
-**Zinale/Zinale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer and Automation Engineering student at UNIVPM (Ancona, IT).  
+I'm passionate about technology, especially the field of computer science, both from a theoretical and practical perspective.
 
-Here are some ideas to get you started:
+## 💻 Main Languages & Tools
+- Python
+- Java
+- C / C++
+- MATLAB
+- STM32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinale&show_icons=true&theme=dracula)
+
+## 📫 Contacts
+- LinkedIn: [Alessandro Zingaretti](https://www.linkedin.com/in/alessandro-zingaretti)
+- Email: zingaale@email.com
