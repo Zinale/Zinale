@@ -11,7 +11,14 @@ I'm passionate about technology, especially the field of computer science, both 
 - STM32
 
 ## 📊 GitHub Stats
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinale&show_icons=true&theme=gotham)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zinale&show_icons=true&theme=gotham&hide_title=true&hide_border=true&card_width=400" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinale&theme=gotham&layout=compact&hide_title=true&hide_border=true&card_width=400" /></td>
+  </tr>
+</table>
+
+
 
 ## 📫 Contacts
 - LinkedIn: [Alessandro Zingaretti](https://www.linkedin.com/in/alessandro-zingaretti)
